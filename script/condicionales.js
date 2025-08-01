@@ -34,3 +34,7 @@ if (edad >= 18) {
 } else{
     alert ("No Puedes Votar");
 }
+
+//MALA PRACTICA
+let nombre , apellido , edad3, cedula , telefono ;
+
